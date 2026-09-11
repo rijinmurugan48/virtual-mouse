@@ -11,7 +11,7 @@ import time
 # -------------------- SETTINGS --------------------
 
 CAMERA_WIDTH = 640
-CAMERA_HEIGHT = 480
+CAMERA_HEIGHT = 500
 
 # Cursor smoothing
 SMOOTHING = 0.25
